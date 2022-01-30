@@ -1,7 +1,7 @@
 
 # Digitilización de señales
 
-Bienvenidos al repositorio de la clase Temas Selectos de Instrumentacion y Electronica (Digitalización de Señales)
+Bienvenidos al repositorio de la clase Temas Selectos de Instrumentacion y Electronica (Digitalización de Señales)!!!
 
 ## Imágenes
 
